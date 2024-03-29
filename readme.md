@@ -44,6 +44,16 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 ## Object Detection
 
 <p>
+<font size=3><b>Salience DETR: Enhancing Detection Transformer with Hierarchical Salience Filtering Refinement
+</b></font>
+<br>
+<font size=2>Xiuquan Hou, Meiqin Liu, Senlin Zhang, Ping Wei, Badong Chen.</font>
+<br>
+<font size=2>CVPR 2024.</font>
+<a href='https://arxiv.org/abs/2403.16131'>[paper]</a> <a href='https://github.com/xiuqhou/Salience-DETR'>[code]</a>  
+</p>
+
+<p>
 <font size=3><b>Detection Transformer with Stable Matching
 </b></font>
 <br>
